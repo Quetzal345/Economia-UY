@@ -1,1 +1,1 @@
-# Economia-UY
+# Economia
